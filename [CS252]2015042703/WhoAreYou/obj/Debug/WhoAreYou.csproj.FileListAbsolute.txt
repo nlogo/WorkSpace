@@ -1,0 +1,9 @@
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\bin\Debug\WhoAreYou.exe.config
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\bin\Debug\WhoAreYou.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\bin\Debug\WhoAreYou.pdb
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.csprojResolveAssemblyReference.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.Form1.resources
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.Properties.Resources.resources
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.csproj.GenerateResource.Cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042703\WhoAreYou\obj\Debug\WhoAreYou.pdb

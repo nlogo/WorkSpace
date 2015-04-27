@@ -1,0 +1,6 @@
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\bin\Debug\YourName.exe.config
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\bin\Debug\YourName.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\bin\Debug\YourName.pdb
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\obj\Debug\YourName.csprojResolveAssemblyReference.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\obj\Debug\YourName.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042701\YourName\obj\Debug\YourName.pdb

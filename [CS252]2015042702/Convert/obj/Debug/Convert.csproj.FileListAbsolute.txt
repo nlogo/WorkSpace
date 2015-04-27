@@ -1,0 +1,13 @@
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\bin\Debug\Convert.exe.config
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\MainWindow.baml
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\MainWindow.g.cs
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\App.g.cs
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert_MarkupCompile.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.g.resources
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.Properties.Resources.resources
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.csproj.GenerateResource.Cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\bin\Debug\Convert.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\bin\Debug\Convert.pdb
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]2015042702\Convert\obj\Debug\Convert.pdb

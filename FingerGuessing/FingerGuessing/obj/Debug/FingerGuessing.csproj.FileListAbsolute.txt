@@ -1,0 +1,6 @@
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.exe.config
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.pdb
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.csprojResolveAssemblyReference.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.pdb

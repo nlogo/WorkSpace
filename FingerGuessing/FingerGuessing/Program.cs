@@ -10,11 +10,12 @@ namespace FingerGuessing
     {
         static void Main(string[] args)
         {
-            while (true)
+            do
             {
                 Random random = new Random();
 
-                Console.WriteLine("選擇您要出的拳 1(剪刀) 2(石頭) 3(布) :");
+                Console.Clear();
+                Console.Write("選擇您要出的拳 1(剪刀) 2(石頭) 3(布) :");
                 string MyChoice = Console.ReadLine();
 
                 int PcChoice = random.Next(1, 3);
@@ -34,8 +35,8 @@ namespace FingerGuessing
                     Console.WriteLine("你輸了");
                 }
 
-                Console.ReadKey();
-            }
+                Console.Write("還要再玩一次?(Y/N):");
+            }while(Console.ReadKey().Key == ConsoleKey.Y);
 
         }
     }

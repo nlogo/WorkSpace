@@ -1,0 +1,9 @@
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\bin\Debug\ConfederateWar.exe.config
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\bin\Debug\ConfederateWar.exe
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\bin\Debug\ConfederateWar.pdb
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.ConfederateWar.resources
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.Properties.Resources.resources
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.csproj.GenerateResource.Cache
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.exe
+c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.pdb
+C:\Users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.csprojResolveAssemblyReference.cache

@@ -7,3 +7,6 @@ c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\Confederate
 c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.exe
 c:\users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.pdb
 C:\Users\nlogo\documents\visual studio 2013\Projects\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.csprojResolveAssemblyReference.cache
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]20150612\ConfederateWar\bin\Debug\ConfederateWar.exe.config
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.exe
+C:\Users\nlogo\Documents\GitHub\WorkSpace\[CS252]20150612\ConfederateWar\obj\Debug\ConfederateWar.pdb
